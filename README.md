@@ -23,16 +23,3 @@ This project explores historical Indian Premier League (IPL) datasets to uncover
 * **Environment:** Jupyter Notebook
 
 ---
-
-## 📁 Project Structure
-```text
-IPL-Data-Visualisation/
-│
-├── data/
-│   └── ipl_matches.csv          # Cleaned dataset containing IPL records
-│
-├── notebooks/
-│   └── ipl_analysis.ipynb       # Jupyter Notebook containing all visualizations
-│
-├── requirements.txt             # Project dependencies
-└── README.md                    # Project documentation
